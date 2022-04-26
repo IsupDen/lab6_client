@@ -1,0 +1,14 @@
+add
+qwe
+12
+12
+12
+1
+
+Denis
+1.87
+BLUE
+BLUE
+ITALy
+execute_script src/main/resources/script.txt
+remove_first
